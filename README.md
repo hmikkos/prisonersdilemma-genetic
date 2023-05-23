@@ -1,5 +1,4 @@
 # Axelrod's Tournament Simulation
-# Axelrod's Tournament Simulation
 
 This repository contains a Python script that simulates Axelrod's Tournament using Genetic Algorithms. Axelrod's Tournament is a classic simulation in game theory, where different strategies compete in a prisoner's dilemma scenario.
 
