@@ -12,7 +12,7 @@ Prisoners can also evolve their strategies over time by using genetic algorithm 
 
 1. Clone the repository to your local machine.
 2. Make sure Python 3.x and necessary libraries (numpy, matplotlib, seaborn) are installed.
-3. Run the script `python3 main.py`.
+3. Run the script `python3 project.py`.
 
 The simulation's parameters, such as the number of generations to run and the initial number of each type of prisoner, can be adjusted in the `axelrod_tournament()` function at the bottom of the script.
 
